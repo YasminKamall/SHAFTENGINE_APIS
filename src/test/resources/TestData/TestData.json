@@ -1,0 +1,27 @@
+{
+  "PageTitle": "FEATURES ITEMS",
+  "NewUser": "New User Signup!",
+  "ACCOUNTINFO": "ENTER ACCOUNT INFORMATION",
+  "AccountCreated": "ACCOUNT CREATED!",
+  "LoggedIn": "Logged in as Yasmin",
+  "ACCOUNTDELETED": "",
+  "UserName": "Yasmin",
+  "Email": "YasminKamal",
+
+  "Password": "12345",
+  "FirstName": "Yasmin",
+  "LastName": "Mohamed",
+
+  "BirthDay": "6",
+  "Month": "January",
+  "Year": "2021",
+
+  "Company": "Gizasystems",
+  "Address1": "Giza",
+  "Address2": "October",
+  "Country": "Canada",
+  "State": "Ontario",
+  "City": "London",
+  "ZipCode": "0000",
+  "Mobile": "01114323232"
+}
